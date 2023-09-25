@@ -41,7 +41,6 @@ int main(){
     default:
         printf("consonant\n");
 
-
     }
 
 return 0;
